@@ -25,5 +25,6 @@ var k = kittens.slice(0, kittens.length-1)
 return k
 }
 function removeFirstKitten(){
-
+var k = kittens.slice(1)
+return k
 }

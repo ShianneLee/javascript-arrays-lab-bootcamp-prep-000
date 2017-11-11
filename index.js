@@ -21,8 +21,8 @@ function prependKitten(name){
   return k
 }
 function removeLastKitten(){
-  
+
 }
 function removeFirstKitten(){
-  
+
 }

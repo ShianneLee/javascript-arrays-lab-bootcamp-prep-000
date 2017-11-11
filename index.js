@@ -16,3 +16,13 @@ function appendKitten(name){
   var k = [...kittens, name]
   return k
 }
+function prependKitten(name){
+  var k = [name, ...kittens]
+  return k
+}
+function removeLastKitten(){
+  
+}
+function removeFirstKitten(){
+  
+}
